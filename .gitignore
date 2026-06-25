@@ -1,0 +1,10 @@
+# Editors / OS
+*.swp
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Ollama caches
+*.ollama
