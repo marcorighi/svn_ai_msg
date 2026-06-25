@@ -3,7 +3,7 @@ Marco Righi
 Independent Researcher  
 
 **Software version:** 1.0.0  
-**Software DOI:** 10.5281/zenodo.XXXXXXX      <!-- replace -->  
+**Software DOI:** 10.5281/zenodo.20849102
 **Report DOI:**   10.5281/zenodo.YYYYYYY      <!-- generated on upload -->
 
 ---
@@ -85,8 +85,8 @@ Please cite the software DOI in any scholarly or production use:
   version   = {1.0.0},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXX},
-  url       = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi       = {10.5281/zenodo.20849102},
+  url       = {https://doi.org/10.5281/zenodo.20849102}
 }
 ```
 
