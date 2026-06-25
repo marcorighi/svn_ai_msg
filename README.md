@@ -3,8 +3,8 @@ Marco Righi
 Independent Researcher  
 
 **Software version:** 1.0.0  
-**Software DOI:** 10.5281/zenodo.20849102
-**Report DOI:**   10.5281/zenodo.YYYYYYY      <!-- generated on upload -->
+**Software DOI:** 10.5281/zenodo.20849102  
+**Report DOI:**   10.5281/zenodo.YYYYYYY  
 
 ---
 
