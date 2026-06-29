@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "svn_ai_msg: AI-assisted Subversion commit-message generator"
 version: "1.0.0"
-doi: "10.5281/zenodo.20849102"    # replace after Zenodo upload
+doi: "10.5281/zenodo.20849102"    
 authors:
   - family-names: Righi
     given-names: Marco
